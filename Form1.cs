@@ -1092,7 +1092,7 @@ namespace DocuScan
 
         private void Form1_Load(object sender, EventArgs e)
                     {
-            string dateInString = "02.10.2022";
+            string dateInString = "09.26.2023";
 
             DateTime startDate = DateTime.Parse(dateInString);
             DateTime expiryDate = startDate.AddDays(30);
